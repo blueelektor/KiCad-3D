@@ -1,5 +1,11 @@
 # KiCad-3D
 
+### 3D_Resistor_Calculator.exe
+   컬러 저항 생성기 프로그램 (윈도우10/11)
+
+### 3D_Resistor_Viewer.exe
+   컬러 저항 및 *.wrl 뷰어 프로그램 (윈도우10/11)
+
 # 👋 Welcome to blueelektor!
 
 ## 🎥 About My YouTube Channel
